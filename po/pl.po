@@ -1,0 +1,361 @@
+# POLISH TRANSLATION
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.vixalien.decibels package.
+# polswert12 <polswert1@gmail.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.vixalien.decibels\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-31 15:01+0200\n"
+"PO-Revision-Date: 2024-04-13 11:17+0100\n"
+"Last-Translator: polswert12 <polswert1@gmail.com>\n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: data/com.vixalien.decibels.desktop.in.in:3
+#: data/com.vixalien.decibels.metainfo.xml.in.in:5 data/window.blp:9
+msgid "Decibels"
+msgstr "Decibels"
+
+#: data/com.vixalien.decibels.desktop.in.in:4
+msgid "Audio Player"
+msgstr "Odtwarzacz Audio"
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/com.vixalien.decibels.desktop.in.in:12
+msgid "music;player;media;audio;"
+msgstr "muzyka;odtwarzacz;media;audio;"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:6
+msgid "Play audio files"
+msgstr "Odtwarzaj pliki audio"
+
+#. developer_name tag deprecated with Appstream 1.0
+#: data/com.vixalien.decibels.metainfo.xml.in.in:10
+#: data/com.vixalien.decibels.metainfo.xml.in.in:12
+msgid "Angelo Verlain"
+msgstr "Angelo Verlain"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:16
+msgid "Current features:"
+msgstr "Obecne funkcje:"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:18
+msgid "Shows the waveform of the track"
+msgstr "Pokazuje przebieg ścieżki"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:19
+msgid "Adjust playback speed"
+msgstr "Dostosuj szybkość odtwarzania"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:20
+msgid "Easy seek controls"
+msgstr "Łatwa kontrola"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:38
+msgid "Decibels joined GNOME Circle! 🥳"
+msgstr "Decibels dołączyły do GNOME Circle! 🥳"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:39
+msgid ""
+"Enhanced the accessibility of the app by ensuring that every on-screen "
+"element is screenreader accessible"
+msgstr "Zwiększono dostępność aplikacji, zapewniając, że każdy element na ekranie jest dostępny dla czytnika ekranu"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:40
+msgid "Added Dutch, Occitan, Belarusian and updated the Italian translations"
+msgstr "Dodano język niderlandzki, oksytański, białoruski i zaktualizowano tłumaczenia włoskie"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:47
+msgid ""
+"The buttons allowing to skip forwards and backwards 30 seconds were removed"
+msgstr "Przyciski umożliwiające przewinięcie 30 sekund w przód i tył zostały usunięte"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:48
+msgid "Some issues in the Brazilian Translation were fixed"
+msgstr "Kilka błędów w Brazylijskim tłumaczeniu zostało naprawionych"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:55
+msgid ""
+"The waveform of the track is now reliably generated, and shows volume levels "
+"more distinctly"
+msgstr "Przebieg ścieżki jest teraz generowany niezawodnie i wyraźniej pokazuje poziomy głośności"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:56
+#: data/com.vixalien.decibels.metainfo.xml.in.in:69
+msgid "A few issues preventing some content from being translated were fixed"
+msgstr "Błędy związane z nieprzetłumaczonym tekstem zostały naprawione"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:57
+msgid ""
+"Decibels was translated to Czech, Kinyarwanda, German, Traditional Chinese, "
+"Ukrainian and Brazilian Portuguese"
+msgstr "Decibels przetłumaczono na język czeski, kinyarwanda, niemiecki, chiński tradycyjny, ukraiński i brazylijski portugalski"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:63
+msgid "A small bugfix and minor improvements release"
+msgstr "Małe poprawki i ulepszenia"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:65
+msgid ""
+"The artist of the currently playing track is shown if the artist is known"
+msgstr "Artysta obecnie grającego utworu jest pokazywany, jeśli jest podany"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:66
+msgid "Fix a minor visual issue when dropping a file"
+msgstr "Naprawiono błąd wizualny kiedy przeciągasz plik"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:67
+msgid "Pause the track after playback ends"
+msgstr "Zapauzuj utwór po tym jak sie skończy"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:68
+msgid "The window size is now correctly saved and restored"
+msgstr "Rozmiar okna został teraz poprawnie zapisany i przywrócony"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:70
+msgid "Decibels was translated to French, Russian, Italian and Turkish"
+msgstr "Decibels zostało przetłumaczone na język francuski, rosyjski, włoski i turecki"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:76
+msgid "A few improvements and papercut fixes"
+msgstr "Kilka ulepszeń"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:78
+msgid "Support drag and drop"
+msgstr "Wsparcie dla przeciągania plików"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:79
+msgid "Seek to the start of a track after it ends"
+msgstr "Wróć na początek utworu jak się skończy"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:80
+msgid "Allow dragging the app window from everywhere (except the waveform)"
+msgstr "Zezwalaj na przeciąganie okna aplikacji zewsząd (z wyjątkiem przebiegu)"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:81
+msgid ""
+"Made the playback speed popover look less cluttered by removing the +/- "
+"buttons and mark labels"
+msgstr "Sprawiliśmy, że wyskakujące okienko prędkości odtwarzania wyglądało na mniej zaśmiecone, usuwając +/- przyciski i etykiety z oznaczeniami"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:82
+msgid ""
+"Fix an issue that prevented accessing file metadata from within the Flatpak "
+"sandbox"
+msgstr "Naprawiono błąd który nie pozwalał na odczytanie metadanych pliku w Flatpakowej wersji"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:83
+msgid ""
+"Don't try to play files without audio streams (images and videos without "
+"sound)"
+msgstr "Nie próbuj odtwarzać plików bez audio (zdjęcia oraz filmy bez dźwięku)"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:84
+msgid "Don't try to process video streams even if they were not rendered"
+msgstr "Nie próbuj przetwarzać strumieni wideo, nawet jeśli nie zostały wyrenderowane"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:85
+msgid "Fixed some issues with the Development build of Decibels"
+msgstr "Naprawiono trochę błędów związanych z wersją rozwojową"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:86
+msgid "Fixed a minor glitch with the app icon"
+msgstr "Naprawiono mały błąd związany z ikonką aplikacji"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:92
+msgid "A few bug fixes that polishes up the app"
+msgstr "Kilka napraw błędów które poprawiają aplikację"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:94
+msgid ""
+"Differentiate development versions of the app from the stable app by styling "
+"the icon and header differently"
+msgstr "Odróżniono wersję rozwojową aplikacji od aplikacji stabilnej poprzez stylizację ikona i nagłówek inaczej
+"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:95
+msgid "Added donation link in application metadata"
+msgstr "Dodano link do donateów w metadanych aplikacji"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:96
+msgid "Fix the About Window being detached from main window"
+msgstr "Naprawiono, że okienko informacyjne było odczepione od głównego"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:97
+msgid "Fix the About Window showing release notes for an older version"
+msgstr "Naprawiono okienko informacyjne, które pokazywało informacje dla starszej wersji"
+
+#: data/com.vixalien.decibels.metainfo.xml.in.in:104
+msgid "Initial Release"
+msgstr "Initial Release"
+
+#: data/drag-overlay.blp:17
+msgid "Drop an audio file to play it"
+msgstr "Przeciągnij i upuść plik audio żeby go odtworzyć"
+
+#: data/empty.blp:12
+msgid "Open an Audio File"
+msgstr "Otwórz plik audio"
+
+#: data/empty.blp:19
+msgid "_Open…"
+msgstr "_Otwórz…"
+
+#: data/error.blp:12 src/drag-overlay.ts:72 src/window.ts:154 src/window.ts:193
+#: src/window.ts:212 src/window.ts:228
+msgid "File Cannot Be Played"
+msgstr "Plik nie mógł zostać odtworzony"
+
+#: data/error.blp:19
+msgid "_Try Again…"
+msgstr "_Spróbuj Ponownie…"
+
+#: data/header.blp:11
+msgid "Main Menu"
+msgstr "Główne Menu"
+
+#: data/header.blp:19
+msgid "Open…"
+msgstr "Otwórz…"
+
+#: data/header.blp:26
+msgid "_Keyboard Shortcuts"
+msgstr "_Skróty Klawiszy"
+
+#: data/header.blp:31
+msgid "_About Decibels"
+msgstr "_O Decibels"
+
+#: data/player.ui:91
+msgid "Adjust Playback Speed"
+msgstr "Dostosuj szybkość odtwarzania"
+
+#: data/player.ui:103
+msgid "Skip back 10s"
+msgstr "Przewiń 10 sekund do tyłu"
+
+#: data/player.ui:131
+msgid "Skip forward 10s"
+msgstr "Przewiń 10 sekund do przodu"
+
+#: data/gtk/help-overlay.blp:11
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Ogólne"
+
+#: data/gtk/help-overlay.blp:14
+msgctxt "shortcut window"
+msgid "Show Shortcuts"
+msgstr "Pokaż skróty"
+
+#: data/gtk/help-overlay.blp:19
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "Wyjdź"
+
+#: data/gtk/help-overlay.blp:25
+msgctxt "shortcut window"
+msgid "Player"
+msgstr "Odtwarzacz"
+
+#: data/gtk/help-overlay.blp:28
+msgctxt "shortcut window"
+msgid "Open File"
+msgstr "Otwórz plik"
+
+#: data/gtk/help-overlay.blp:33
+msgctxt "shortcut window"
+msgid "Pause/Play"
+msgstr "Pauza/Odtwórz"
+
+#: data/gtk/help-overlay.blp:38
+msgctxt "shortcut window"
+msgid "Go back 10 seconds"
+msgstr "10 sekund do tyłu"
+
+#: data/gtk/help-overlay.blp:43
+msgctxt "shortcut window"
+msgid "Go forward 10 seconds"
+msgstr "10 sekund do przodu"
+
+#. Translators: Replace "translator-credits" with your names, one name per line
+#: src/application.ts:50
+msgid "translator-credits"
+msgstr "polswert1"
+
+#: src/drag-overlay.ts:73
+msgid "Unable to access dropped files"
+msgstr "Nie można odczytać pliku."
+
+#: src/error.ts:42
+msgid "An unknown error happened"
+msgstr "Nieznany błąd nastąpił"
+
+#: src/stream.ts:264
+msgid ""
+"File uses a format that cannot be played. Additional media codecs may be "
+"required."
+msgstr "Plik używa formatu który nie może zostać odtworzony. Dodatkowe kodeki media mogą być niezbędne."
+
+#: src/stream.ts:274
+msgid ""
+"An error happened while trying to get information about the file. Please try "
+"again."
+msgstr "Nieoczekiwany błąd przy odczytywaniu informacji o pliku. Spróbuj ponownie."
+
+#: src/stream.ts:284
+msgid "File uses an invalid URI"
+msgstr "Plik używa nieprawidłowego URI"
+
+#: src/stream.ts:294
+msgid "Reading the file's information timed out. Please try again."
+msgstr "Program nie mógł odczytać informacji o pliku. Spróbuj ponownie."
+
+#: src/stream.ts:408
+msgid "Unknown File"
+msgstr "Nieznany plik"
+
+#: src/stream.ts:633
+msgid "The selected file doesn't contain any audio"
+msgstr "Wybrany plik nie zawiera dźwięku"
+
+#: src/player.ts:136
+msgid "Pause"
+msgstr "Pauza"
+
+#: src/player.ts:136
+msgid "Play"
+msgstr "Odtwórz"
+
+#: src/window.ts:160
+msgid "Audio files"
+msgstr "Pliki Audio"
+
+#: src/window.ts:167
+msgid "Open File"
+msgstr "Otwórz plik"
+
+#: src/window.ts:194
+msgid "No available audio file found"
+msgstr "Nie znaleziono dostępnego pliku audio"
+
+#: src/window.ts:206
+msgid "Directories Cannot Be Played"
+msgstr "Foldery nie mogą być odtwarzane"
+
+#: src/window.ts:207
+msgid "Please select a file."
+msgstr "Proszę wybrać plik."
+
+#: src/window.ts:213
+msgid "The selected file is not a regular file."
+msgstr "Wybrany plik nie jest regularnym plikiem."
+
+#: src/window.ts:229
+msgid "No file was selected"
+msgstr "Plik nie został wybrany"
